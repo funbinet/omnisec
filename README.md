@@ -340,5 +340,5 @@ OMNISEC is designed for authorized security professionals and organizations. To 
 <p align="center">
   <b>OMNISEC</b> — Comprehensive Defensive Security Suite
   <br>
-  <small>© 2024 funbinet • Proprietary Software • All Rights Reserved</small>
+  <small>© 2025 funbinet • Proprietary Software • All Rights Reserved</small>
 </p>
