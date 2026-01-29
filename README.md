@@ -20,6 +20,11 @@
 
 ---
 
+<p align="center">
+  <img src="omnisec1.png" alt="OMNISEC" width="1260"/>
+</p>
+
+---
 ## Overview
 
 **OMNISEC** is a comprehensive defensive security platform that integrates 80+ security tools into a unified PyQt6 GUI interface, following the NIST Cybersecurity Framework. It provides a complete security operations center (SOC) solution designed for organizations and security professionals who need to defend against modern cyber threats.
